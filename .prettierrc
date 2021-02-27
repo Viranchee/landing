@@ -1,0 +1,14 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "quoteProps": "consistent",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "semi": true,
+  "svelteStrictMode": true,
+  "svelteAllowShorthand": false,
+  "svelteBracketNewLine": true
+
+}
